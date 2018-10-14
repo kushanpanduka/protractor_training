@@ -1,3 +1,6 @@
+// Blog Page
+// Created by Sahani 
+
 var blogPage=function(){
 
     var menu_categories=element(by.xpath("//div[@id='navigation-top']//a[text()='CATEGORIES']"));
